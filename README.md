@@ -5,4 +5,4 @@
 2.对sql注入问题进行了测试
 
 3.三种不同方式获取数据库连接。
-书写通用查询方法利用preparestatement
+通用查询方法利用preparestatement
